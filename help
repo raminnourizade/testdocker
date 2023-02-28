@@ -1,0 +1,5 @@
+docker build -t [tag-name] .
+docker images
+docker login
+docker push new-repo:tagname
+
